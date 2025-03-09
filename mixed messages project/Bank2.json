@@ -1,0 +1,12 @@
+{
+  "questions": [
+    "What is HTML?",
+    "What is CSS?",
+    "What is a Web Browser?"
+  ],
+  "answers": [
+    "HTML is the standard language for web pages.",
+    "CSS is used to style web pages.",
+    "A web browser is used to access web pages."
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "questions": [
+    "What is Git?",
+    "What is GitHub?",
+    "What is a commit?"
+  ],
+  "answers": [
+    "Git is a version control system.",
+    "GitHub is a platform for hosting Git repositories.",
+    "A commit is a snapshot of changes in a repository."
+  ]
+}
